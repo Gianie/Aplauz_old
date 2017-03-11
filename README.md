@@ -1,0 +1,2 @@
+# Splendor
+Realizacja projektu inżynierskiego.
