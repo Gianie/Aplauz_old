@@ -13,22 +13,22 @@
             <ColumnDefinition Width="585*"/>
             <ColumnDefinition Width="0*"/>
         </Grid.ColumnDefinitions>
-        <Button x:Name="karta11" Content="chujon" HorizontalAlignment="Left" Margin="130,98,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta12" Content="chujon" HorizontalAlignment="Left" Margin="366,98,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta13" Content="chujon" HorizontalAlignment="Left" Margin="249,98,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2" RenderTransformOrigin="0.528,1.963"/>
-        <Button x:Name="karta14" Content="chujon" HorizontalAlignment="Left" Margin="483,98,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta21" Content="chujon" HorizontalAlignment="Left" Margin="130,155,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta22" Content="chujon" HorizontalAlignment="Left" Margin="249,155,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta23" Content="chujon" HorizontalAlignment="Left" Margin="366,155,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta24" Content="chujon" HorizontalAlignment="Left" Margin="483,155,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta31" Content="chujon" HorizontalAlignment="Left" Margin="130,214,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta32" Content="chujon" HorizontalAlignment="Left" Margin="249,214,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta33" Content="chujon" HorizontalAlignment="Left" Margin="366,214,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta34" Content="chujon" HorizontalAlignment="Left" Margin="483,214,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta41" Content="chujon" HorizontalAlignment="Left" Margin="130,276,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta42" Content="chujon" HorizontalAlignment="Left" Margin="249,276,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta43" Content="chujon" HorizontalAlignment="Left" Margin="366,276,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
-        <Button x:Name="karta44" Content="chujon" HorizontalAlignment="Left" Margin="483,276,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta11" Content="ch" HorizontalAlignment="Left" Margin="130,98,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta12" Content="ch" HorizontalAlignment="Left" Margin="366,98,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta13" Content="ch" HorizontalAlignment="Left" Margin="249,98,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2" RenderTransformOrigin="0.528,1.963"/>
+        <Button x:Name="karta14" Content="ch" HorizontalAlignment="Left" Margin="483,98,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta21" Content="ch" HorizontalAlignment="Left" Margin="130,155,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta22" Content="ch" HorizontalAlignment="Left" Margin="249,155,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta23" Content="ch" HorizontalAlignment="Left" Margin="366,155,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta24" Content="ch" HorizontalAlignment="Left" Margin="483,155,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta31" Content="ch" HorizontalAlignment="Left" Margin="130,214,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta32" Content="ch" HorizontalAlignment="Left" Margin="249,214,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta33" Content="ch" HorizontalAlignment="Left" Margin="366,214,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta34" Content="ch" HorizontalAlignment="Left" Margin="483,214,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta41" Content="ch" HorizontalAlignment="Left" Margin="130,276,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta42" Content="ch" HorizontalAlignment="Left" Margin="249,276,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta43" Content="ch" HorizontalAlignment="Left" Margin="366,276,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
+        <Button x:Name="karta44" Content="ch" HorizontalAlignment="Left" Margin="483,276,0,0" VerticalAlignment="Top" Width="87" Height="34" Grid.Column="2"/>
         <Label x:Name="ary1" Content="Label" Grid.Column="2" HorizontalAlignment="Left" Margin="130,45,0,0" VerticalAlignment="Top" Width="87"/>
         <Label x:Name="ary2" Content="Label" Grid.Column="2" HorizontalAlignment="Left" Margin="249,45,0,0" VerticalAlignment="Top" Width="87" RenderTransformOrigin="1.445,0.659"/>
         <Label x:Name="ary3" Content="Label" Grid.Column="2" HorizontalAlignment="Left" Margin="366,45,0,0" VerticalAlignment="Top" Width="87"/>
